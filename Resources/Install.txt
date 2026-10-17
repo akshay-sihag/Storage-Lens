@@ -1,0 +1,21 @@
+Storage Lens — By Eridyn
+Version 1.1.3
+Author & publisher: Eridyn
+
+INSTALL
+Drag Storage Lens.app to the Applications shortcut. Then open Storage Lens from Applications.
+Requires an Apple Silicon Mac and macOS 14 or newer.
+
+THIS IS A PREVIEW
+This build is locally signed, not Apple-notarized. Other Macs may block it under their security policy. Do not disable system security to install it. A public release will need Eridyn Developer ID signing and notarization.
+
+START WITH A SCAN
+The scan is read-only. Choose Cleanup to inspect recognized caches and old logs. Preview shows the consequences and blocks running applications or files in use. Confirmation is required before moving anything to Trash.
+
+RECOVERY
+Nothing is permanently deleted by Storage Lens. History can restore a moved item if it is still in Trash and its original location has not been recreated. Space is freed only after you manually empty Trash in Finder.
+
+PRIVACY
+No telemetry or file uploads. Scanning is local; optional online research sends only the search terms you review. Exports contain local file paths; review them before sharing. Cleanup history is stored locally in your Library/Application Support/Storage Lens folder.
+
+© 2026 Eridyn. All rights reserved.
